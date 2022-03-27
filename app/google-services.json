@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667233366197",
+    "project_id": "tech-event-b3d61",
+    "storage_bucket": "tech-event-b3d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667233366197:android:d0df720a592b6611118efc",
+        "android_client_info": {
+          "package_name": "com.example.techevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667233366197-lkap3cebemrq5328utub1cvu4hjka3mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYZJmEMCJAlZp-9H4MB3WTVIJ1_Hj5pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667233366197-lkap3cebemrq5328utub1cvu4hjka3mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menuProfile"
+        android:title="Proile"
+        android:icon="@drawable/ic_person"/>
+
+    <item
+        android:id="@+id/menuTargets"
+        android:title="Targets"
+        android:icon="@drawable/ic_target"/>
+
+
+    <item
+        android:title="Others">
+
+        <menu>
+
+            <item
+                android:id="@+id/menuSupport"
+                android:title="Support"
+                android:icon="@drawable/support"/>
+
+            <item
+                android:id="@+id/menuPrivacy"
+                android:title="Privacy Policy"
+                android:icon="@drawable/ic_privacy"/>
+            <item
+                android:id="@+id/menuRate"
+                android:title="Rate Us"
+                android:icon="@drawable/ic_rate" />
+            <item
+                android:id="@+id/logOut"
+                android:title="Logout"
+                android:icon="@drawable/ic_logout" />
+        </menu>
+
+
+    </item>
+
+</menu>

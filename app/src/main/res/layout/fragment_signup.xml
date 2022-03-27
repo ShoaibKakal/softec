@@ -33,8 +33,8 @@
 
             <com.makeramen.roundedimageview.RoundedImageView
                 android:id="@+id/imageProfile"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
                 android:background="@drawable/background_image"
                 android:scaleType="centerCrop"
                 app:riv_oval="true" />
@@ -99,8 +99,7 @@
             <AutoCompleteTextView
                 android:id="@+id/user_type"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:inputType="none" />
+                android:layout_height="wrap_content" />
         </com.google.android.material.textfield.TextInputLayout>
 
 
@@ -174,7 +173,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
             android:text="Already have an account"
-            android:textColor="@color/primary"
+            android:textColor="@color/colorPrimary"
             android:textSize="14sp"
             android:textStyle="bold" />
 

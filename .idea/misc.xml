@@ -3,10 +3,37 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable-v24/bid_orange_background.xml" value="0.186" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable-v24/status_background.xml" value="0.186" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable-v24/status_red_background.xml" value="0.186" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable/arrow.xml" value="0.186" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable/background_image.xml" value="0.148" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable/bid_red_background.xml" value="0.186" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable/ic_back.xml" value="0.186" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/drawable/status_background.xml" value="0.186" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/activity_auth.xml" value="0.15895765472312703" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/activity_competition_register.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/activity_detail_competition.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/activity_detail_stall.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/activity_main.xml" value="0.15822368421052632" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/activity_sponsorship_package.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/activity_stall_competition.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/fragment_competition_bids.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/fragment_home.xml" value="0.16052631578947368" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/fragment_login.xml" value="0.15895765472312703" />
         <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/fragment_signup.xml" value="0.15895765472312703" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/fragment_stall.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/fragment_targets.xml" value="0.15822368421052632" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/fragment_user.xml" value="0.15822368421052632" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/item_application_status.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/item_bid_card.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/item_competition.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/item_package_card.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/layout_navigation_header.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/layout/slider_item_container.xml" value="0.15822368421052632" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/menu/main_navigation_menu.xml" value="0.15822368421052632" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/menu/navigation_menu.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/TechEvent/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1215" />
       </map>
     </option>
   </component>
